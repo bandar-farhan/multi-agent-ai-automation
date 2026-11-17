@@ -35,9 +35,6 @@ Customer Message → WhatsApp Integration → n8n Workflow → AI Agent / Knowle
 
 ## Project Screenshots
 
-
-## Project Screenshots
-
 ### Multi-Agent Orchestration
 ![Agent Orchestration](screenshots/agent-orchestration.png)
 
