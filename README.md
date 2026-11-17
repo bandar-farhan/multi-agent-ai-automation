@@ -1,4 +1,4 @@
-# AI Customer Support Agent
+# Multi-Agent AI Automation Platform
 
 ### AI-Powered Customer Support Automation
 
