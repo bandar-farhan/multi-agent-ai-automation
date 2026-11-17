@@ -1,6 +1,6 @@
 # Multi-Agent AI Automation Platform
 
-### AI-Powered Customer Support Automation
+### AI-powered customer support, sales, and booking automation using n8n, RAG, and API integrations.
 
 ## Overview
 
