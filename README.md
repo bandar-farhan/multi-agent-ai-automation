@@ -35,7 +35,26 @@ Customer Message → WhatsApp Integration → n8n Workflow → AI Agent / Knowle
 
 ## Project Screenshots
 
-Screenshots demonstrating the system architecture, workflow automation, and example interactions are provided in the `screenshots` directory.
+
+## Project Screenshots
+
+### Multi-Agent Orchestration
+![Agent Orchestration](screenshots/agent-orchestration.png)
+
+### FAQ Agent - RAG Workflow
+![FAQ Agent](screenshots/rag-workflow.png)
+
+### Sales AI Agent
+![Sales Agent](screenshots/sales-agent.png)
+
+### Booking AI Agent
+![Booking Agent](screenshots/booking-agent.png)
+
+### Customer Support Interface
+![Customer Chat](screenshots/customer-chat.png)
+
+### Sales Management Dashboard
+![Sales Dashboard](screenshots/sales-dashboard.png)
 
 ## Privacy & Implementation
 
